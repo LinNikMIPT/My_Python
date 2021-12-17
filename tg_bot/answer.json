@@ -1,0 +1,21 @@
+{
+  "update_id": 690621749,
+  "message": {
+    "message_id": 115,
+    "from": {
+      "id": 442919503,
+      "is_bot": false,
+      "first_name": "Nikita Lindemann",
+      "username": "NikLinMIPT",
+      "language_code": "en"
+    },
+    "chat": {
+      "id": 442919503,
+      "first_name": "Nikita Lindemann",
+      "username": "NikLinMIPT",
+      "type": "private"
+    },
+    "date": 1639729617,
+    "text": "j"
+  }
+}
